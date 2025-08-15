@@ -1,8 +1,8 @@
-# 📌 Club Management System
+# 📌 BITCM-Club Management System
 
 ## 📖 Overview
-The **Club Management System** is a PHP & MySQL-based web application designed to **automate and streamline club administration**.  
-It includes modules for **member registration, event management, attendance tracking, and financial management**, with a **secure login system** and **role-based access control**.  
+The **BITCM-Club Management System** is a PHP & MySQL-based web application designed to **automate and streamline club administration**.  
+It includes modules for **member registration, event management, attendance tracking, and financial management**, with a **secure login system** and **role-based access control** for **Bangalore Institute of Technology**.  
 
 This system **reduces manual work**, improves operational efficiency, and fosters better member engagement through a user-friendly interface accessible on all devices.
 
